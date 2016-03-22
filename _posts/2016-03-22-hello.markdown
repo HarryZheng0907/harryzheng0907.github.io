@@ -1,0 +1,19 @@
+---
+layout:     post
+title:      "Welcome to Harry Blog"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2015-01-29 12:00:00
+author:     "Hux"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - 生活
+---
+
+> “Yeah It's on. ”
+
+
+我的博客终于开通了， 这是第一篇文章
+
+
+
+
