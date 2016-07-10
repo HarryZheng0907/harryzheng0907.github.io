@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "使用Redis缓存分页数据"
-date:       2016-02-29 12:00:00
+date:       2016-07-09 12:00:00
 author:     "Harry"
 header-img: "img/post-bg-2015.jpg"
 tags:
