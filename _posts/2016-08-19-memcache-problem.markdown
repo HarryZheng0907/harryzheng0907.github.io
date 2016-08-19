@@ -1,4 +1,14 @@
-# 在Yii中使用Memcache做缓存遇到的坑
+---
+layout:     post
+title:      "Memcache缓存丢失"
+date:       2016-08-19 17:37:00
+author:     "Harry"
+header-img: "img/post-bg-2015.jpg"
+tags:
+    - Memcache
+---
+
+# Memcache缓存丢失
 
 近日接到一位同事的求助，他在Yii中使用Memcache（跟PHP代码不在同一台服务器）作为缓存，但是在给缓存增加过期时间后，缓存就不见了，下面是他的代码
 
