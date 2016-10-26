@@ -14,7 +14,8 @@ tags:
 ![Laravel安装报错](http://oeii54s39.bkt.clouddn.com/laravel-install-error.png)
 
 通过分析代码，最终找到了报错的位置vendor\symfony\process\Process.php:380,下面贴一下出错的函数
-    public function wait(callable $callback = null)
+
+	public function wait(callable $callback = null)
     {
         $this->requireProcessIsStarted(__FUNCTION__);
 
