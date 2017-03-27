@@ -6,10 +6,8 @@ author:     "Harry"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - Workerman
-	- Thrift
+    - Thrift
 ---
-
-### 解决Workerman+Thrift做服务会卡住的问题
 
 用Workerman+Thrft做微服务时，发现服务有时会卡住，卡住以后除非重启进程，不然当前进程便再也处理不了其他请求，这会导致前置请求全部TImeout，与该服务相关的请求全部不可用，所以这个问题必须要解决，不然系统将变得非常不稳定。
 
